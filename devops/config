@@ -1,3 +1,3 @@
-project_name=ScarecrowBlog
-image_name=ScarecrowBlog
+project_name=scarecrowblog
+image_name=scarecrowblog
 port=6010:80
