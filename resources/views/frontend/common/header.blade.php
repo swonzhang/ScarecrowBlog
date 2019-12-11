@@ -45,7 +45,7 @@
             <img src="{{asset('assets/frontend/images/greetgif') . '/' . \Scarecrow\showGreet()}}" style="width:150px"><br /><span style="background: linear-gradient(to right, #FF0000, #0000FF);-webkit-background-clip: text;color: transparent;">择一人到白头</span><br />
             <p> Copyright &copy; 2019 By Scarecrow </p>
             <ul>
-                <li><a href="#">QQ：1366635163</a></li>
+                <li><a href="#"></a></li>
             </ul>
         </div>
     </aside>

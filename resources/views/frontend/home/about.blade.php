@@ -12,7 +12,7 @@
                 <img id="mypic" class="img-responsive" src="{{asset('/assets/frontend/images/home/zwjs.jpg')}}" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
             </div>
             <div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-                <h2 class="fh5co-heading mypic">设备外型 <em class="through mytips">编程机器人 零零七</em></h2>
+<!--                 <h2 class="fh5co-heading mypic">设备外型 <em class="through mytips">编程机器人 零零七</em></h2>
                 设备编号：HR-CN-8888<br />
                 生产厂家：China<br />
                 生产场地：Chong Qing<br />
@@ -23,12 +23,12 @@
                 作为普通型的智能设备，不具有太过高级的功能，但是可以根据环境，扩展自己的功能，这是智能设备的通用的学习能力。<br />
                 设备按照地球自转进行周期性的睡眠，自我检查与维修，另外还会进行能量补充，用于维持零件的运转，现已持续无障碍运行九千多天。<br />
                 <em class="through"></em>
-                </p>
+                </p> -->
             </div>
         </div>
     </div>
 
-    <div class="fh5co-narrow-content" style="max-width: 92%;padding: 0 0;">
+ <!--    <div class="fh5co-narrow-content" style="max-width: 92%;padding: 0 0;">
         <h2 class="fh5co-heading animate-box" data-animate-effect="fadeInLeft">制造项目</h2>
         <div class="row">
             <div class="col-md-6">
@@ -84,7 +84,7 @@
                 </a>
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="fh5co-narrow-content animate-box" data-animate-effect="fadeInLeft" id="panel">
         @include('frontend.common.pinglun')
     </div>
