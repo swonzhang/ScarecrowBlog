@@ -28,7 +28,7 @@
     <input type="hidden" id="basePath" value="{{asset("/")}}">
     <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
     <aside id="fh5co-aside" role="complementary" class="border js-fullheight">
-        <h1 id="fh5co-logo" style="font-size:25px"><a href="{{$commonData['首页链接']??'#'}}">Scarecrow博客</a></h1>
+        <h1 id="fh5co-logo" style="font-size:25px"><a href="{{$commonData['首页链接']??'#'}}">Swon博客</a></h1>
         <div style="margin-bottom: 1em;text-align: center;">
             <input type="text" class="searchInput" placeholder="Search" id="searchInput" value="{{$sc ?? ''}}">
         </div>
